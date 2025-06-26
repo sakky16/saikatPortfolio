@@ -470,6 +470,9 @@ display: flex;
 .skills h2 {
   color: #fff;
 }
+.skills p{
+  margin-top: 3%;
+}
 .skills .heading span {
   color: rgb(255, 230, 0);
 }
